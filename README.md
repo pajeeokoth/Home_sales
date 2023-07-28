@@ -11,8 +11,8 @@
             *   Number of Bathrooms.
 
             *   Square footage.
-            
+
 *   We create a cache for the temporary file and check to ensure it is created
 *   We partiton the dataframe and save a parquet
 *   We compare the run times for the temporary file, cached file and the parquet file.
-*   SWe uncache the temporary file and confirm the same.
+*   We uncache the temporary file and confirm the same.
